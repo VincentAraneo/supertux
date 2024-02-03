@@ -1,6 +1,6 @@
 (supertux-world
   (title (_ "Icy Island"))
-  (description "The first world of SuperTux.")
+  (description "The first world of SuperTux Story Mode.")
   (hide-from-contribs #t)
   (levelset #f)
 )
